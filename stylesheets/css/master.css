@@ -1,5 +1,14 @@
 /* MASTER CSS FILE */
 
 body{
-  background-color: #c80000;
+
+}
+
+/* HEADER */
+
+header div {
+  width: 100vw;
+  height: 44px;
+
+  background-color: #333;
 }
